@@ -1,3 +1,4 @@
+
 # 1.1 Git Commit
 
 ![1.1](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/1%2C1.png)
@@ -147,3 +148,65 @@ Primero selecciono one y hago un Cherry-pick para que copie los commits C4, C3 y
 Repito lo mismo con la rama two agregándole un commit nuevo llamado C5.
 
 Y por último hago un Branch para move a la rama three de forma forzada al commit C2.
+
+# 6.1 Clone
+
+![6.1](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C1.png)
+
+Básicamente clona el repositorio.
+
+# 6.2 Ramas Remotas
+
+![6.2](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C2.png)
+
+Básicamente clona el repositorio.
+
+# 6.3 fetch
+
+![6.3](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C3.png)
+
+Esta descarga cambios desde un repositorio remoto a su repositorio local.
+
+# 6.4 pull
+
+![6.4](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C4.png)
+
+Este es una combinación de fetch y merge, que recupera las últimas confirmaciones, ramas y etiquetas del repositorio remoto sin fusionarlos con su repositorio local.
+
+# 6.5 Faketeamwork
+
+![6.5](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C5.png)
+
+Básicamente clona el repositorio.
+
+# 6.6 Push
+
+![6.6](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C6.png)
+
+Este es una combinación de fetch y merge, que recupera las últimas confirmaciones, ramas y etiquetas del repositorio remoto sin fusionarlos con su repositorio local.
+
+# 6.7 git push II
+
+![6.7](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C7.png)
+
+
+
+# 6.8 Main bloqueado
+
+![6.8](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C8.png)
+
+Git reset: Este reinicia el repositorio local a un estado previo.
+
+
+# 7.1 Push Main
+
+![7.1](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/7%2C1.png)
+
+Para realizar este se reuso el comando rebase para cambiar la posicion de las ramas de forma que queden igual que en el objetivo.
+Al final uso un pull para aplicar los cambios del repositorio remoto al local, y un git push para asignar main al commit final.
+
+# 7.2 Clone
+
+![7.2](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/7%2C2.png)
+
+Este es igual que el ejercicio anterior solo que se usa merge en vez de rebase.
