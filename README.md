@@ -1,4 +1,4 @@
-#Segundo Parcial Analisis de Sistemas ISC 010 001
+# Segundo Parcial Analisis de Sistemas ISC 010 001
 José Angel Alba 2022-0398
 # 1.1 Git Commit
 
