@@ -1,4 +1,5 @@
-
+#Segundo Parcial Analisis de Sistemas ISC 010 001
+José Angel Alba 2022-0398
 # 1.1 Git Commit
 
 ![1.1](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/1%2C1.png)
