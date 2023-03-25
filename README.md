@@ -151,15 +151,18 @@ Y por último hago un Branch para move a la rama three de forma forzada al commi
 
 # 6.1 Clone
 
-![6.1](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C1.png)
+![6.1](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6.1.png)
 
 Básicamente clona el repositorio.
 
 # 6.2 Ramas Remotas
 
-![6.2](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C2.png)
+![6.2](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6.2.png)
 
-Básicamente clona el repositorio.
+Primero se hace un commit.
+Luego se hace un checkout hacia la rama main con el nombre remoto o.
+Para finalizar se hace otro commit.
+
 
 # 6.3 fetch
 
@@ -177,7 +180,7 @@ Este es una combinación de fetch y merge, que recupera las últimas confirmacio
 
 ![6.5](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/6%2C5.png)
 
-Básicamente clona el repositorio.
+
 
 # 6.6 Push
 
