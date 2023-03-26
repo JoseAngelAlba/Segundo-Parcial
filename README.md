@@ -214,3 +214,10 @@ Al final uso un pull para aplicar los cambios del repositorio remoto al local, y
 ![7.2](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/7%2C2.png)
 
 Este es igual que el ejercicio anterior solo que se usa merge en vez de rebase.
+
+# Prueba del Curso Principal Completado
+
+
+
+
+# Prueba del Curso Remoto Completado
