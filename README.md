@@ -216,8 +216,10 @@ Al final uso un pull para aplicar los cambios del repositorio remoto al local, y
 Este es igual que el ejercicio anterior solo que se usa merge en vez de rebase.
 
 # Prueba del Curso Principal Completado
+![Prueba del Curso Principal Completado](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/prueba%20principal.png)
 
 
 
 
 # Prueba del Curso Remoto Completado
+![Prueba del Curso Remoto Completado](https://github.com/JoseAngelAlba/Segundo-Parcial/blob/main/prueba%20remota.png)
